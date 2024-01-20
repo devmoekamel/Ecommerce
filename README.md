@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a Flutter application that interacts with the `Rest API` to create  e-commerce store. The app allows users to browse through various products, view details, and add items to their shopping cart.
+This is a Responsive application that interacts with the `Rest API` to create  e-commerce store. The app allows users to Browse & Search through various products, view details, and add items to their shopping cart.
 
 ## Features
 
@@ -12,6 +12,17 @@ This is a Flutter application that interacts with the `Rest API` to create  e-co
 - View product details, including name, price, description, and image
 - Add Products to Favourite List
 - Add Product to Cart List
+
+<br/>
+  <h3 align="center" >
+  Ecommerce ... Try it Now</br></br>
+  <a href="">
+ <img src="repoassets/android-button.png" height="60"
+         alt="Get it on Android">
+ </a>
+   </h3> 
+ </br>
+
 
  ## Supported Platforms 📱
  
