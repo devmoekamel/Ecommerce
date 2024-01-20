@@ -13,6 +13,29 @@ This is a Flutter application that interacts with the `Rest API` to create  e-co
 - Add Products to Favourite List
 - Add Product to Cart List
 
+ ## Supported Platforms 📱
+ 
+<div display="flex">
+  <table width="auto" align="center" >
+  <tr>
+<td> OS </td>
+   <td> Status </td> 
+   </tr>
+    <tr>
+<td> Android </td>
+     <td align="center"> 
+     Tested And Works Fine
+     </td> 
+   </tr>
+    <tr>
+<td> iOS </td>
+   <td> Not yet compatible </td> 
+  </tr>
+   
+  </table >
+</div>
+
+
 
 
 ## Installation
