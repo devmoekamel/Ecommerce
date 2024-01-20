@@ -8,6 +8,7 @@ This is a Flutter application that interacts with the `Rest API` to create  e-co
 
 - Authentication System [ Login  - Register - Recovering Password ] 
 - Browse  products
+- Search Products
 - View product details, including name, price, description, and image
 - Add Products to Favourite List
 - Add Product to Cart List
