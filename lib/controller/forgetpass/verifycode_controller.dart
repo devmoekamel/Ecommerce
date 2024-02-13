@@ -20,6 +20,7 @@ class VerifyCodeControllerImp extends VerifyCodeController {
   @override
   void onInit() {
     email = Get.arguments['email'];
+    
     super.onInit();
   }
 

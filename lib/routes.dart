@@ -85,7 +85,6 @@ List<GetPage<dynamic>>? routes = [
   GetPage(name: AppRoute.cartpage, page: () => CartPage()),
   GetPage(name: AppRoute.address, page: () => AddressView()),
   GetPage(name: AppRoute.addressadd, page: () => AddressAdd()),
-
   // profile
-  GetPage(name: AppRoute.profile, page: () => AddressEdit()),
+  // GetPage(name: AppRoute.profile, page: () => AddressEdit()),
 ];

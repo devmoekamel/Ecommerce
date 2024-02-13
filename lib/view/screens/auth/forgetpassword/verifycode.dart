@@ -19,6 +19,10 @@ class VerifyCode extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       backgroundColor: AppColor.background,
+       floatingActionButton: FloatingActionButton(
+        backgroundColor: AppColor.primarycolor,
+        onPressed: () { Get.defaultDialog(
+              title: "Attention", middleText: "Test Account \n Test OTP : 55555 ");},child: Icon(Icons.info,color: Colors.white,)),
       appBar: AppBar(
         backgroundColor: AppColor.background,
         centerTitle: true,

@@ -3,7 +3,6 @@ import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:ecommrecemvc/routes.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-
 import 'core/localization/TranslationLocale.dart';
 import 'core/localization/locale_controller.dart';
 import 'core/services/services.dart';

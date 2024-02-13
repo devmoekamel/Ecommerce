@@ -22,6 +22,7 @@ class VerifyCodeSignControllerImp  extends VerifyCodeSignController {
 @override
   void onInit() {
     email = Get.arguments["email"];
+   
     super.onInit();
   }
 

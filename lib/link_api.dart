@@ -1,6 +1,8 @@
 class ApiLink{
 
 //baseurl
+static const String baseurl ="https://just4funecho.000webhostapp.com/ecommerce";
+
 //  add your base url
 // image
 static const String imgapi ="$baseurl/upload";
@@ -37,6 +39,10 @@ static const String cartcountitems ="$baseurl/cart/countitems.php";
 
 static const String search ="$baseurl/items/search.php";
 
+static const String addressadd ="$baseurl/address/add.php";
+static const String addressdelete ="$baseurl/address/delete.php";
+static const String addressupdate ="$baseurl/address/update.php";
+static const String addressview ="$baseurl/address/view.php";
 
 
 

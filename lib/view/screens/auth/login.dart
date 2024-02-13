@@ -21,8 +21,13 @@ class Login extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    
     return Scaffold(
       backgroundColor: AppColor.background,
+      floatingActionButton: FloatingActionButton(
+        backgroundColor: AppColor.primarycolor,
+        onPressed: () {Get.defaultDialog(
+              title: "Attention", middleText: "Test Account \n email : testuser@gmail.com \n password : 123456789 ");},child: Icon(Icons.info,color: Colors.white,)),
       appBar: AppBar(
         backgroundColor: AppColor.background,
         centerTitle: true,
@@ -47,6 +52,8 @@ class Login extends StatelessWidget {
               child: Form(
                 key: controller.formkey,
                 child: ListView(
+                  
+                  
                   children: [
                     LogoAuth(),
                      SizedBox(height: 30.h),
