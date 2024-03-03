@@ -59,9 +59,10 @@ Here are some screenshots from the Tareeq app:
 </div>
 
 <div align="center">
-  <img src="repoassets/1.jpg" width="200" style="margin: 10px;">
-  <img src="repoassets/2.jpg" width="200" style="margin: 10px;">
-  <img src="repoassets/3.jpg" width="200" style="margin: 10px;">
+   <img src="repoassets/localization.png" width="200" style="margin: 10px;">
+  <img src="repoassets/onboard1.png" width="200" style="margin: 10px;">
+  <img src="repoassets/onboard2.png" width="200" style="margin: 10px;">
+  <img src="repoassets/onboard3.png" width="200" style="margin: 10px;">
 </div>
 
 <div align="center">
@@ -69,11 +70,24 @@ Here are some screenshots from the Tareeq app:
 </div>
 
 <div align="center">
-  <img src="repoassets/4.jpg" width="200" style="margin: 10px;">
-  <img src="repoassets/5.jpg" width="200" style="margin: 10px;">
-  <img src="repoassets/6.jpg" width="200" style="margin: 10px;">
+  <img src="repoassets/signin.png" width="200" style="margin: 10px;">
+  <img src="repoassets/signup.png" width="200" style="margin: 10px;">
+  <img src="repoassets/verify.png" width="200" style="margin: 10px;">
+  <img src="repoassets/checkemail.png" width="200" style="margin: 10px;">
 </div>
 
+<div align="center">
+  <img src="repoassets/home.png" width="200" style="margin: 10px;">
+  <img src="repoassets/cart.png" width="200" style="margin: 10px;">
+  <img src="repoassets/search.png" width="200" style="margin: 10px;">
+  <img src="repoassets/settings.png" width="200" style="margin: 10px;">
+</div>
+<div align="center">
+  <img src="repoassets/Favourite.png" width="200" style="margin: 10px;">
+  <img src="repoassets/Products.png" width="200" style="margin: 10px;">
+  <img src="repoassets/address.png" width="200" style="margin: 10px;">
+  <img src="repoassets/map.png" width="200" style="margin: 10px;">
+</div>
 <div align="center">
 
 </div>
