@@ -52,7 +52,7 @@ This is a Responsive application that interacts with the `Rest API` to create  e
 ## screenShots
 ## Screenshots
 
-Here are some screenshots from the Tareeq app:
+Here are some screenshots from the Release App:
 
 <div align="center">
   <h2>Mobile App Screenshots</h2>
