@@ -49,29 +49,35 @@ This is a Responsive application that interacts with the `Rest API` to create  e
 
 
 
-## Installation
+## screenShots
+## Screenshots
 
-To run this application on your local machine, make sure you have Flutter installed. Then follow these steps:
+Here are some screenshots from the Tareeq app:
 
-1. Clone this repository to your local machine using:
-   ```
-   git clone github.com/devmoekamel/ecommerce.git
-   ```
+<div align="center">
+  <h2>Mobile App Screenshots</h2>
+</div>
 
-2. Navigate to the project directory:
-   ```
-   cd flutter-e-commerce
-   ```
+<div align="center">
+  <img src="repoassets/1.jpg" width="200" style="margin: 10px;">
+  <img src="repoassets/2.jpg" width="200" style="margin: 10px;">
+  <img src="repoassets/3.jpg" width="200" style="margin: 10px;">
+</div>
 
-3. Install the required dependencies:
-   ```
-   flutter pub get
-   ```
+<div align="center">
 
-4. Run the app on an emulator or physical device:
-   ```
-   flutter run
-   ```
+</div>
+
+<div align="center">
+  <img src="repoassets/4.jpg" width="200" style="margin: 10px;">
+  <img src="repoassets/5.jpg" width="200" style="margin: 10px;">
+  <img src="repoassets/6.jpg" width="200" style="margin: 10px;">
+</div>
+
+<div align="center">
+
+</div>
+
 
 ## Dependencies
 
